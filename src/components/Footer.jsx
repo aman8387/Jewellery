@@ -43,7 +43,7 @@ export default function Footer() {
         <div className="md:col-span-1 space-y-4">
           <Link to="/" className="inline-block">
             <h2 className="text-3xl font-serif text-stone-800 leading-none capitalize">
-              Aman
+              Alankra
             </h2>
             <p className="text-[10px] tracking-[0.3em] text-stone-500 font-light mt-1 uppercase">
               Jewellers
