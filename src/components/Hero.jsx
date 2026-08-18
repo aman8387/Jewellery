@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
-import { featuredProducts, styleGallery, customPieces, testimonials } from '../data/products';
+import { featuredProducts, styleGallery, customPieces, testimonials } from '../data/Products.js';
 
 export default function Hero({ onAddToCart }) {
   // Local state to track quantities for each product individually
